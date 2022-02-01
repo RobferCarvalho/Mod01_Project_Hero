@@ -126,7 +126,7 @@ if(escolha == escolhaSim){
     }
 
 if(ranq == 5){
-    console.log('\nVocê concluiu com sucesso os cinco feitos necessários, e se tornou um Master Bruxo');
+    console.log('\n'+ nome +', você concluiu com sucesso os cinco feitos necessários, e se tornou um Master Bruxo');
 }   
     else if(ranq == 6){
         console.log('\n'+ nome +' concluiu com sucesso quatro dos cinco feitos necessários, e se tornou um Especialista Bruxo');
