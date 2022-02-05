@@ -18,6 +18,7 @@ Perguntar se o Jogador quer jogar novamente, se sim inicie volte a escolha de qu
 */
 
 
+//em dev
 
 var prompt = require('prompt-sync')();
 

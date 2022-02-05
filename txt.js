@@ -1,5 +1,5 @@
 
-
+//inicio projeto final
 const periodo = ['Manhã', 'Tarde', 'Noite', 'Madrugada'];
 const sttus1 = ['Descansado', 'Revigorado' ,'Sentindo-se bem','Cansado'];
 const sttus2 =[ 'Debilitado', 'Indisposto', 'Disposto', 'Alimentado'];
