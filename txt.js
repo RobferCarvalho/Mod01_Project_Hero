@@ -11,3 +11,7 @@ console.log(sttus1);
 console.log (periodo);
 console.log(sttus2);
 console.log(sttus3);
+
+
+//
+
