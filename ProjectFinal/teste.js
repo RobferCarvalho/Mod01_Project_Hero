@@ -58,7 +58,7 @@ humor[3] = "Estressado";
 humor[4] = "Excelente";
 
 const bruxo = {
-    nome : `José`,
+    nome : ``,
     idade: 20,
 }
 
@@ -207,8 +207,9 @@ if(escolha === 1){
 }else if(escolha === 5){
 
 }else{
-    for(escolha < 0 ; escolha > 5 ; escolha != Number){
-        console.log(`${escolha} não é valida, digite o numero correspondente, por favor.`);
+    for(){
+        
+    }
 }
 }
 
